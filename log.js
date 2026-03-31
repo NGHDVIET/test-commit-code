@@ -5,3 +5,4 @@ console.log('Commit 4');
 console.log('Commit 5');
 console.log('Commit 6');
 console.log('Commit 7');
+console.log('Commit 8');
