@@ -9,3 +9,4 @@ console.log('Commit 8');
 console.log('Commit 9');
 console.log('Commit 10');
 console.log('Commit 11');
+console.log('Commit 12');
