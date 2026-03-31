@@ -1,1 +1,2 @@
-console.log('Hello');
+// index.js
+console.log("Todo App started");
